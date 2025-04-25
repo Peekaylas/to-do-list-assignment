@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { todos as initialTodos } from "../data/todos"
-import Input from './Input'
 import TodoTings from "./TodoTings"
 
 const Todobox = () => {
